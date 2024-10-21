@@ -1,4 +1,6 @@
-## Hi there 👋 I'm Aeggne Miranda and I'm currently learning how to program! Some hobbies that interest me are making custom keyboards, collecting stationery, and modding/repairing consoles.
+## Hi there! 👋 
+
+I'm Aeggne Miranda and I'm currently learning how to program! Some hobbies that interest me are making custom keyboards, collecting stationery, and modding/repairing consoles.
 
 
 <!--
