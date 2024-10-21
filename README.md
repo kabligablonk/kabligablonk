@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Aeggne Miranda and I'm currently learning how to program! Some hobbies that interest me are making custom keyboards, collecting stationery, and modding/repairing consoles.
+
 
 <!--
 **kabligablonk/kabligablonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
