@@ -1,19 +1,34 @@
-## Hi there! 👋 
+<section>
+<h3 style="text-align: center;"><kbd>> Hey! I am Aeggne Miranda</kbd></h3>
 
-I'm Aeggne Miranda and I'm currently learning how to program! Some hobbies that interest me are making custom keyboards, collecting stationery, and modding/repairing consoles.
+<h4 style= "text-align: center;"><samp>「 Pursuing a Computer Science Degree soon<sup>tm</sup> 」 </samp> </h4>
+</section>
 
+[//]: # (maybe remove this dropdown thing in the future)
+<details>
+    <summary style="text-align: center; text-decoration: underline"><samp>Explore</samp></summary>
+    <p>
+        <h3>Technologies</h3>
+        <samp>Work in progress!</samp>
+    </p>
+    <br>
+    <p>
+        <h3>Contact + Resume</h3>
+        <samp>
+        1 | &nbsp&nbspstatic void <a href="https://www.linkedin.com/in/aeggne-miranda-09b574308/">Linkedin</a> {
+        <br>
+        2 | &nbsp&nbspif (<a href="https://github.com/kabligablonk">Github</a> == 1) {
+        <br>
+        3 | &nbsp&nbspSystem.out.println ("<b style="text-decoration: underline">Check out my</b>" + <a href="">resume</a> (Work in progress!) }}
+        </samp>
+    </p>
+    <br>
+    <p>
+        <h3>Stats</h3>
+        <a href="https://github-readme-stats.vercel.app/api?username=kabligablonk&theme=nightowl&show_icons=true&hide_border=true&count_private=true"><img src="https://github-readme-stats.vercel.app/api?username=kabligablonk&theme=nightowl&show_icons=true&hide_border=true&count_private=true"></a>
+    </p>
+</details>
 
-<!--
-**kabligablonk/kabligablonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 style="text-align: center">
+Dont forget to dont dog
+</h4>
