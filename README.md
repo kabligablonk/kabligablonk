@@ -1,5 +1,5 @@
 <section>
-<h3  align="center"><kbd>> Hey! I am Aeggne Miranda</kbd></h3>
+<h4 align="center"><code>> Hey! I am Aeggne Miranda</code></h4>
 
 <h4  align="center"><samp>「 Pursuing a Computer Science Degree soon<sup>tm</sup> 」 </samp> </h4>
 </section>
