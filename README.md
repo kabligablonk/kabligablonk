@@ -9,7 +9,12 @@
     <summary  align="center" style=" text-decoration: underline"><samp>Explore</samp></summary>
     <p>
         <h3>Technologies and tools</h3>
-        <samp>Work in progress!</samp>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=ffffff&color=%23181717">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&labelColor=ffffff&color=%233776AB">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Java-gray?style=for-the-badge&logo=openjdk&logoColor=f29111&labelColor=ffffff&color=f29111">
+        <img alt="Static Badge" src="https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=ffffff&color=%23E34F26">
+        <img alt="Static Badge" src="https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=css&logoColor=%23663399&labelColor=ffffff&color=%23663399">
+        <img alt="Static Badge" src="https://img.shields.io/badge/jetbrains%20IDEs-gray?style=for-the-badge&logo=jetbrains&logoColor=%23000000&labelColor=ffffff&color=%23000000">
     </p>
     <br>
     <p>
