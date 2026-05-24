@@ -16,18 +16,6 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=css&logoColor=%23663399&labelColor=ffffff&color=%23663399">
         <img alt="Static Badge" src="https://img.shields.io/badge/jetbrains%20IDEs-gray?style=for-the-badge&logo=jetbrains&logoColor=%23000000&labelColor=ffffff&color=%23000000">
     </p>
-    <br>
-    <p>
-        <h3>Contact + resume</h3>
-        <samp>
-        1 | &nbsp&nbspstatic void <a href="https://www.linkedin.com/in/aeggne-miranda-09b574308/">Linkedin</a> {
-        <br>
-        2 | &nbsp&nbspif (<a href="https://github.com/kabligablonk">Github</a> == 1) {
-        <br>
-        3 | &nbsp&nbspSystem.out.println ("<b style="text-decoration: underline">Check out my</b>" + <a href="">resume</a> (Work in progress!) }}
-        </samp>
-    </p>
-    <br>
     <p>
         <h3>Stats</h3>
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=kabligablonk&theme=nightowl&show_icons=true&hide_border=true&count_private=true"><img src="https://github-readme-stats.vercel.app/api?username=kabligablonk&theme=nightowl&show_icons=true&hide_border=true&count_private=true"></a> -->
